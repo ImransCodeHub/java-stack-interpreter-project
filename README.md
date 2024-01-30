@@ -26,6 +26,18 @@ Here are a few example programs that the interpreter can execute:
 - `' Hello' ' World!' + out` - Concatenates the strings "Hello" and "World!" and prints the result.
 - `' Hello World!' - out` - Reverses the string "Hello World!" and prints the result.
 
+## Technologies and Tools Used
+- Java: The programming language used for developing the interpreter.
+- Command-Line Interface (CLI): Used for running the interpreter and providing input files.
+- File Input/Output: Java's file handling capabilities are utilized to read and parse the input program files.
+- Error Handling: Implemented to handle errors and print error messages when necessary.
+- Stack Data Structure: Used to store and manipulate data during program execution, following the stack-based paradigm.
+- String Manipulation: Used for processing and manipulating strings, such as parsing program instructions and handling quotes.
+- Standard Input/Output (I/O): Used for reading input from the user and printing output during program execution.
+- Regular Expressions: Possibly used for parsing program instructions, especially in cases involving string manipulation and pattern matching.
+- Git: Version control system used for managing project files and collaboration.
+- GitHub: Hosting platform used for storing the project repository and facilitating collaboration and version control.
+
 ## Usage
 
 To use the stack-based interpreter, follow these steps:
