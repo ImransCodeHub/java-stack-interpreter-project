@@ -1,4 +1,4 @@
-```markdown
+
 # CP2561 Project - Stack-Based Interpreter
 
 This project is a completed stack-based interpreter for a simple stack-based language based on the Forth programming language. It was developed as part of the CP2561 course and achieved the objectives outlined in the project instructions.
@@ -33,7 +33,7 @@ To use the stack-based interpreter, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mransCodeHub/java-stack-interpreter-project.git
+   git clone https://github.com/ImransCodeHub/java-stack-interpreter-project.git
    ```
 
 2. Navigate to the project directory:
