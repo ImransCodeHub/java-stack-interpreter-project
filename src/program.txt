@@ -1,0 +1,8 @@
+2 3 4 * + out
+5 - out
+5 2 swap - + out
+5 5 3 pop + out
+353 ' 5 ' * out
+in out
+' Hello World! ' out
+5 ' Number is: ' swap + out
